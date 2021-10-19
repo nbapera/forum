@@ -1,0 +1,36 @@
+.profile
+{
+    padding: 30px;
+}
+
+.profile-pic 
+{
+    width: 300px;
+    height: 300px;
+    border-radius: 16px;
+}
+
+.profile-date
+{
+    color: #c2c2c2;
+}
+
+.profile-user
+{
+    display: inline-flex;
+}
+
+.profile-username
+{
+    color: #cecece;
+}
+
+.profile-right
+{
+    margin: 30px;
+}
+
+.user-posts
+{
+    padding: 60px;
+}
