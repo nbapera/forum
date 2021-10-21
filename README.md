@@ -9,9 +9,8 @@
     View profile
 
 ## Run locally
-    Clone the repositry
     git clone https://github.com/nbapera/forum/
-    cd frontend
+    cd forum
     npm install & npm start
     cd ../backend
     npm install & npm start
