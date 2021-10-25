@@ -23,7 +23,7 @@ app.get('/', (req, res) => {
 
     return res.json({
         app: 'forum',
-        github: 'https://github.com/nbapera/simple-forum',
+        github: 'https://github.com/nbapera/forum',
     })
 })
 
