@@ -3,11 +3,11 @@
 ## Simple forum app built using React, Express and MongoDB.
 
 ### Features
-User Authentication 
-Create new posts
-View posts
-View profiles
-View specific user posts
+    User Authentication 
+    Create new posts
+    View posts
+    View profiles
+    View specific user posts
 
 ### Run locally
     git clone https://github.com/nbapera/forum/
